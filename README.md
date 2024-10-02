@@ -1,7 +1,7 @@
 # Future Sales Forecasting
 
 ## Introduction
-This repository contains the graduation project from a Data Science Bootcamp, focusing on future sales forecasting using time-series analysis. The main dataset used in this project is provided by 1C Company, one of the largest Russian software firms. The goal is to predict the total number of products sold in each shop for the test set period.
+This repository focuses on future sales forecasting using time-series analysis. The main dataset used in this project is provided by 1C Company, one of the largest Russian software firms. The goal is to predict the total number of products sold in each shop for the test set period.
 
 ## Dataset Description
 The project utilizes five main datasets:
